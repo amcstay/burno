@@ -1,2 +1,2 @@
-# Index
-[Burno](https://amcstay.github.io/burno/)
+# Burno
+[Index](https://amcstay.github.io/burno/)
