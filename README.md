@@ -1,2 +1,2 @@
-# Burno
-[Index](https://amcstay.github.io/burno/)
+# John Baskerville
+[Baskerville](https://amcstay.github.io/baskerville/)
