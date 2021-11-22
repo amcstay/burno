@@ -1,0 +1,122 @@
+/* -- CSS Reset --*/
+* {
+    padding: 0;
+    margin: 0;
+    font-size: 100%;
+    line-height: 1em;
+}
+
+/*--Main structure style--*/
+
+body {
+    background: #f1efcc;
+    color: rgb(26, 25, 25);
+
+}
+
+section, header, footer {
+    width: 80%;
+    max-width: 700px;
+    margin: auto;
+}
+
+/*--styling typograpghy--*/
+h2,h3 {
+    color: #f57e0e;
+}
+
+h1 {
+    font-size: 4rem;
+    color: rgb(247, 49, 49);
+    margin-top: 7.5rem;
+}
+
+h2 {
+    font-size: 1.999rem;
+    margin: 3em 0 1 em 0;
+}
+
+h3 {
+    font-size: 1.25rem;
+    margin: 3em 0 1 em 0;
+}
+
+p, blockquote {
+    margin-bottom: 1.5rem;
+    line-height: 1.4;
+}
+
+blockquote {
+    color: #F5ED7B;
+    font-size: 1.15rem;
+    font-style: italic;
+    hanging-punctuation: first;
+    text-indent: -0.5rem;
+
+}
+cite {
+    color: rgb(233, 231, 231);
+    font-size: 0.8rem;
+    font-style: normal;
+}
+
+a {
+    color: rgb(99, 227, 250);
+    text-decoration: none;
+  }
+  
+  
+  /* mouse over link */
+  a:hover {
+    color: hotpink;
+    text-decoration: none;
+  }
+
+  /*--nav--*/
+  nav {
+      position: fixed;
+      top: 0;
+      left: 0;
+      margin: 0;
+      width: 100%;
+      Background: rgb(253, 207, 4);
+      padding: 2em 10;
+  }
+  nav ul {
+      text-align: center;
+      text-transform: uppercase;
+      letter-spacing: 1;
+  }
+
+  ul li {
+      display: inline;
+      margin: 28px;
+  }
+
+  nav a {
+      color: rgb(252, 2, 77);
+  }
+
+  nav a:hover {
+      border-bottom: none;
+      color: rgb(78, 225, 245);
+      transition: all 0.4s ease-in-out;
+  }
+
+  hr {
+    margin: 100px 0;
+    height: 1px;
+    background-color: rgb(130, 189, 238);
+    color: rgb(130, 180, 238);
+    border: 0 none;
+}
+
+footer {
+    text-align: center;
+    font-size: 0.75rem;
+    margin: 6em 0 3em 0
+    padding: 2em 10;
+}
+ 
+
+
